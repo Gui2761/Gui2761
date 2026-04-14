@@ -1,16 +1,14 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Guilherme%20Silva&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Desenvolvedor%20Mobile%20e%20Backend&v=1" width="100%" />
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Guilherme%20Silva&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Desenvolvedor%20Mobile%20e%20Backend)
 
-  <br><br>
+  <br>
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=800&lines=Desenvolvedor+Mobile+(Flutter+%26+Dart);Engenharia+Backend+(Python%2C+FastAPI+%26+Node.js);Integração+de+Inteligência+Artificial+(Gemini)" alt="Typing SVG" />
-  </a>
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=800&lines=Desenvolvedor+Mobile+com+Flutter;Engenharia+Backend+com+Python;Integracao+de+IA+com+Gemini)
   
-  <br><br>
+  <br>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Gui2761&theme=tokyonight&column=7&no-frame=true&no-bg=true&v=1" />
+  ![Troféus](https://github-profile-trophy.vercel.app/?username=Gui2761&theme=tokyonight&column=7&no-frame=true&no-bg=true)
 
 </div>
 
@@ -31,6 +29,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gui2761&show_icons=true&theme=tokyonight&hide_border=true&v=1" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui2761&layout=compact&theme=tokyonight&hide_border=true&v=1" height="195" />
+  ![Estatísticas](https://github-readme-stats.vercel.app/api?username=Gui2761&show_icons=true&theme=tokyonight&hide_border=true)
+  
+  ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Gui2761&layout=compact&theme=tokyonight&hide_border=true)
 </div>
